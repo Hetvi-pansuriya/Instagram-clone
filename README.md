@@ -10,3 +10,4 @@ This project focuses on recreating Instagram’s layout and design to practice f
 ### 🎯 Purpose
 To improve UI design skills and understand real-world layout structuring using pure HTML & CSS.
 
+### Live Demo: https://hetvi-pansuriya.github.io/Instagram-clone/
